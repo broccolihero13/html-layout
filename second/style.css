@@ -1,0 +1,43 @@
+html, body {
+  height:99%;
+  width:100%;
+}
+.container{
+  height:100%;
+  width:100%;
+  border:1px solid;
+}
+.blue {
+  background-color: #4A90E2;
+}
+
+.turq {
+  background-color: #50E3C2;
+}
+
+.yellow {
+  background-color: #B8E986;
+}
+
+.img-hold{
+  background-color: #D0021B;
+  height:200px;
+  width:33.3%;
+  position:absolute;
+  bottom:0px;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-hold p{
+  color: #FFFFFF;
+  font-size: 100%;
+}
+
+.vert-bar{
+  float:left;
+  height:100%;
+  width:33.3%;
+}
