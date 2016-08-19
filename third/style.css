@@ -1,0 +1,54 @@
+html, body {
+  height:99%;
+  width:100%;
+  margin:0;
+}
+.container{
+  width:100%;
+  height:100%;
+}
+
+.box {
+  position:relative;
+  left: 5%;
+  top: 15%;
+  height: 100px;
+  width: 100px;
+}
+.gray {
+  background-color: #D8D8D8;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+.blue {
+  background-color: #4A90E2;
+}
+
+.turq{
+  background-color: #50E3C2;
+}
+
+.pale-green{
+  background-color: #B8E986;
+}
+
+.yellow {
+  background-color: #F8E71C;
+}
+.text-bar {
+  min-height:150px;
+  font-size:24px;
+  padding:10px;
+}
+
+.text-bar p {
+  text-align:center;
+
+}
+
+.horizontal-bar {
+  height:150px;
+}
